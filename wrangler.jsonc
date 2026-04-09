@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "astro-blog-starter-template",
-  "pages_build_output_dir": "/dist", // Added quotes here
+  "pages_build_output_dir": "dist", // Added quotes here
   "compatibility_date": "2026-02-09",
 "observability": {
     "enabled": true,
